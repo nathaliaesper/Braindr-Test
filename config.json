@@ -4,7 +4,7 @@
   "manifestType": "json",
   "widgetType": "ImageSwipe",
   "widgetProperties": {
-    "baseUrlTemplate": "https://raw.githubusercontent.com/nathaliaesper/Braindr-Test/master/sub-{0}.png",
+    "baseUrlTemplate": "https://raw.githubusercontent.com/nathaliaesper/Braindr-Test/master/{0}.png ",
     "delimiter": "__",
     "leftSwipeLabel": "Fail",
     "rightSwipeLabel": "Pass"
