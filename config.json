@@ -4,7 +4,7 @@
   "manifestType": "json",
   "widgetType": "ImageSwipe",
   "widgetProperties": {
-    "baseUrlTemplate": "https://raw.githubusercontent.com/nathaliaesper/Braindr-Test/master/{0}.png ",
+    "baseUrlTemplate": "https://raw.githubusercontent.com/nathaliaesper/Braindr-Test/master/{0}.png",
     "delimiter": "__",
     "leftSwipeLabel": "Fail",
     "rightSwipeLabel": "Pass"
@@ -84,8 +84,8 @@
     "navbarVariant": "info"
   },
   "home": {
-    "title": "Braindr - Test",
-    "tagline": "A new instance of Braindr",
+    "title": "Swipes for Science",
+    "tagline": "A citizen science game template",
     "backgroundUrl": "https://raw.githubusercontent.com/nathaliaesper/Braindr-Test/master/cool_brain.png?sanitize=true"
   },
   "play": {
